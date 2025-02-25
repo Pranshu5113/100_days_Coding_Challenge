@@ -8,3 +8,5 @@ Que_6. Greatest of the Three numbers ?<br>
 Que_7. Leap year or not ?<br>
 Que_8. Prime number or Not ? <br>
 Que_9. Sum of digits of a number ?<br>
+Que_10. Reverse of a number ?<br>
+Que_11. 
